@@ -1,0 +1,12 @@
+{
+  "name": "cultura-em-movimento",
+  "version": "1.0.0",
+  "description": "Portfólio fictício da empresa Cultura em Movimento",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
